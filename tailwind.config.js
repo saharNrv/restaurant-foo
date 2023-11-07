@@ -5,7 +5,7 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundColor:{
+      colors:{
         'primery':'#F4ECE1',
       },
       fontSize:{

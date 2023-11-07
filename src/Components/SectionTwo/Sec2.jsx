@@ -16,7 +16,7 @@ export default class Sec2 extends Component {
     }
   render() {
     return (
-      <div className='pt-10 bg-primery sec2-bg'>
+      <div className='pt-10 pb-10 bg-primery sec2-bg'>
         <h1 className='text-center text-3xl font-bold text-orange-400 mb-10'>Our Awesome Services</h1>
 
         <div className="container">
